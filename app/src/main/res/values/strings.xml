@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WEGA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity2">Votar</string>
+    <string name="title_activity_main_activity3">Seleccionar profesor</string>
+
+    <string-array name="profes">
+        <item>Cynthia Leticia Acosta Almodovar</item>
+        <item>Jose Eduardo Acosta Cano de los Rios</item>
+        <item>Pedro Rafael Acosta Cano de los Rios</item>
+        <item>Raul Arturo Acosta Chavez</item>
+        <item>Benito Aguirre Saenz</item>
+        <item>Adda Olivia Alanis Araiza</item>
+        <item>Gerardo Alcantar Burrola</item>
+        <item>Arturo Alejo Tepate</item>
+        <item>Manuel Altes Cardenas</item>
+        <item>Cornelio Alvarez Herrera</item>
+        <item>Vania Carolina Alvarez Olivas</item>
+        <item>Rocio Alvidrez Rodriguez</item>
+        <item>Ramon Anchondo Perez</item>
+        <item>Maria Antonia Aragon De los Rios</item>
+        <item>Juan Fernando Arevalo Ruiz</item>
+        <item>Jorge Alberto Arias Mendoza</item>
+        <item>Mirna Teresita Armendariz Hernandez</item>
+        <item>Efren Armendariz Mota</item>
+        <item>Alejandra Arredondo Mora</item>
+        <item>Angel Claudio Arzola Mazuca</item>
+        <item>Fernando Rafael Astorga Bustillos</item>
+        <item>Gabriela Leticia Avila Orozco</item>
+        <item>Yolanda Avitia Rodriguez</item>
+        <item>Vanessa Baeza Olivas</item>
+        <item>Wilibaldo Barrada Morales</item>
+        <item>Claudia Barraza Bolivar</item>
+        <item>Francisco Barraza Jimenez</item>
+        <item>Miguel Antonio Barreada Contreras</item>
+        <item>Alfonso Jose Barroso Barajas</item>
+        <item>Alma Denisse Batista Galvan</item>
+        <item>Alonso Bautista Villalobos</item>
+        <item>Oscar Beltran Gomez</item>
+        <item>Eduardo Enrique Benitez Read</item>
+        <item>Ricardo Blanco Vega</item>
+        <item>Karla Bojorquez Gutierrez</item>
+        <item>Oscar Mauricio Borunda Carrasco</item>
+        <item>Martha Cecilia Breceda Vargas</item>
+        <item>Diana Lorelei Bueno Valles</item>
+        <item>Elizabeth Burrola Marquez</item>
+        <item>Rosalba Bustillos Villagran</item>
+        <item>Raymundo Caballero Flores</item>
+        <item>Marisela Ivette Caldera Franco</item>
+        <item>Martha Lorena Calderon Fernandez</item>
+        <item>Alejandro Calderon Landaverde</item>
+        <item>Alberto Camacho Rios</item>
+        <item>Victor Luis Camara Aranda</item>
+        <item>Luis Alfonso Campos Hermosillo</item>
+        <item>Oscar Cardenas Morales</item>
+        <item>Claudio Hiram Carmona Jurado</item>
+        <item>Rene Fernando Carrasco Hernandez</item>
+        <item>Raul Carrera Resendez</item>
+        <item>Michelle Carrete Evangelista</item>
+        <item>Daniela Alejandra Carrillo Treviño</item>
+        <item>Jose Lino Carrillo Villalobos</item>
+        <item>Abelardo Casas Comaduran</item>
+        <item>Jose Castañeda Avila</item>
+        <item>Rocio Guadalupe Castro Lozoya</item>
+        <item>Romualdo Chanes Mendoza</item>
+        <item>Jose Alberto Chaparro Tarango</item>
+        <item>Jacobo Chavez Gonzalez</item>
+        <item>Aldo Antonio Cisneros Rodriguez</item>
+        <item>Manuel Contreras Caraveo</item>
+        <item>Perla Ivonne Cordero De los Rios</item>
+        <item>Luis Alberto Corona Reyes</item>
+        <item>Paola Corona Villa</item>
+        <item>Mariano Corral Banda</item>
+        <item>Pedro Enrique Cossio Rodriguez</item>
+        <item>Mario Andres Cuevas Gutierrez</item>
+        <item>Rodrigo De la Garza Aguilar</item>
+        <item>Marco Polo De Leon Palma</item>
+        <item>Jose Saul De Lira Miramontes</item>
+        <item>Maria Teresa Delgado Caballero</item>
+        <item>Afren Armando Delgado Enrique</item>
+        <item>Guillermo Javier Diaz Greene</item>
+        <item>Ricardo Zeferino Diaz Morales</item>
+        <item>Guillermo Diaz Murillo</item>
+        <item>Raul Reveriano Diaz Quezada</item>
+        <item>Jesus Miguel Dominguez Dominguez</item>
+        <item>Alberto Dominguez Quintana</item>
+        <item>Luis Alonso Dominguez Ramos</item>
+        <item>Victor Alonso Dominguez Rios</item>
+        <item>Evaristo Duran Magos</item>
+        <item>Candy Aurora Duran Ornelas</item>
+        <item>Luis Gerardo Durstewitz Marta</item>
+        <item>Alberto Enriquez Bailon</item>
+        <item>Dalila Jacqueline Escudero Almanza</item>
+        <item>Jesus Mario Espadas Roque</item>
+        <item>Alma Rosa Esparza Chavez</item>
+        <item>Rebeca Minerva Espara Machuca</item>
+        <item>Nietle Comuna de Paris Esparza Vazquez</item>
+        <item>Hector Trinidad Espejel Fernandez</item>
+        <item>Daphne Espejel Garcia</item>
+        <item>Vanessa Veronica Espejel Garcia</item>
+        <item>Maria Socorro Espino Valdes</item>
+        <item>Jose Roberto Espinoza Prieto</item>
+        <item>Maria Elena Estevane Ortega</item>
+        <item>Irma Graci Estrada Gutierrez</item>
+        <item>Juan Carlos Fernandez Chavez</item>
+        <item>Flores Rogelio Fernandez De Lara</item>
+        <item>Claudia Annette Fernandez Perez</item>
+        <item>Luis Carlos Flores Camacho</item>
+        <item>Juan Pablo Flores De los Rios</item>
+        <item>Elizabeth Flores Hernandez</item>
+        <item>Oscar Florez Mendez</item>
+        <item>Adriana Flores Salcido</item>
+        <item>Gaston Rene Fourzan Fierro</item>
+        <item>Miguel Franco Rubio</item>
+        <item>David Alberto Frescas Chong</item>
+        <item>Miguel Angel Galaviz Zamarron</item>
+        <item>Carlos Alfonso Gameros Morales</item>
+        <item>Margarita Garcia Rivas</item>
+        <item>Carlos Eduardo Garcia Vargas</item>
+        <item>Eber Ezequiel Gardea Solis</item>
+        <item>Hector Alejandro Gomez Corral</item>
+        <item>Juan Eli Gomez Vidal</item>
+        <item>Javier Gonzalez Cantu</item>
+        <item>Luis Carlos Gonzalez Gurrola</item>
+        <item>Miguel Angel Gonzalez Nuñez</item>
+        <item>Cesar Gonzalez Valenzuela</item>
+        <item>Natalia Karina Gonzalez Valenzuela</item>
+        <item>Jorge Gramer Rivera</item>
+        <item>Ernesto Guerrero Lestarjette</item>
+        <item>Blanca Patricia Guerrero Martinez</item>
+        <item>Addai Guerrero Quiñones</item>
+        <item>Amalia Irene Guerrero Rodriguez</item>
+        <item>Carmen Elena Gutierrez Sandoval</item>
+        <item>Arnoldo Guzman Nieves</item>
+        <item>Andrei Helo Guereca</item>
+        <item>Marcela Hernandez Acosta</item>
+        <item>Elva Socorro Hernandez Hernandez</item>
+        <item>Hector Hugo Hernandez Hernandez</item>
+        <item>Gilberto Hernandez Juarez</item>
+        <item>Alfonso Hernandez Lopez</item>
+        <item>Fabian Vinicio Hernandez Martinez</item>
+        <item>Gerardo Arturo Hernandez Talamantes</item>
+        <item>Jose Luis Herrera Aguilar</item>
+        <item>Jorge Herrera Gallardo</item>
+        <item>Eduardo Florencio Herrera Peraza</item>
+        <item>Nalleli Herrera Pineda</item>
+        <item>Omar Hinojos Carrasco</item>
+        <item>Octavio Raul Hinojosa De la Garza</item>
+        <item>Rafael Holguin Rivas</item>
+        <item>Rafael Holguin Rivas</item>
+        <item>Nicolas Holguin Rodriguez</item>
+        <item>Karina Edith Jimenez Lozano</item>
+        <item>Raul Alfredo Jimenez Lozano</item>
+        <item>Mario Alberto Juarez Macias</item>
+        <item>Karla Ivonne Juarez Magallanes</item>
+        <item>Arion Ehecatl Juarez Menchaca</item>
+        <item>Sergio Jurado Medina</item>
+        <item>Jose Luis Landeros Rivas</item>
+        <item>Federico Landeros Rodriguez</item>
+        <item>Ivan Enrique Lara Gonzalez</item>
+        <item>Carlos Hugo Larrinua Pacheco</item>
+        <item>Carlos Ignacio Leyva Delgado</item>
+        <item>Sandra Gabriela Leyva Delgado</item>
+        <item>Leonardo Agustin Llamas Jimenez</item>
+        <item>Geronimo Llerar Meza</item>
+        <item>Hernan Ricardo Lopez De la Riva</item>
+        <item>Victor Hugo Lopez De Lara Chavez</item>
+        <item>Marcela Esenia Lopez Ochoa</item>
+        <item>Claudia Lorena Lopez Olivas</item>
+        <item>Miguel Angel Lopez Santillan</item>
+        <item>Aracely Lopez Terrazas</item>
+        <item>Jesus Humberto Loya Mercado</item>
+        <item>Roberto Carlos Luna Lozoya</item>
+        <item>Mario Alberto Madrid Perez</item>
+        <item>Gregorio Arturo Madrid Ramirez</item>
+        <item>Fabricio Alan Madrigal Vazquez</item>
+        <item>Ricardo Majalca Martinez</item>
+        <item>Magdalena Maldonado Valenzuela</item>
+        <item>David Maloof Flores</item>
+        <item>Adolfo Marquez Acosta</item>
+        <item>Juan Armando Marquez Enriquez</item>
+        <item>Eloy Normando Marquez Gonzalez</item>
+        <item>Pedro Rafael Marquez Gutierrez</item>
+        <item>Leonel Marquez Saenz</item>
+        <item>Matias Marquez Saenz</item>
+        <item>Nicolas - Martinez</item>
+        <item>Cesar Martinez Acosta</item>
+        <item>Reynaldo Martinez Armenta</item>
+        <item>Miguel Angel Martinez Lopez</item>
+        <item>Fernando Martinez Reyes</item>
+        <item>Javier Maclen Martinez Rodriguez</item>
+        <item>Javier Alejandro Martinez Rubio</item>
+        <item>Kristian Martinez Sagredo</item>
+        <item>Jose Alejandro Martinez Sosa</item>
+        <item>David Eduardo Medina Guzman</item>
+        <item>Tanya Lizeth Medina Ronquillo</item>
+        <item>Luis German Mejia Borja Mendez</item>
+        <item>Jose Leonel Melchor Ceballos</item>
+        <item>Pedro Angel Mendez Alvarado</item>
+        <item>Jorge Mendoza Hernandez</item>
+        <item>Edgar Eduardo Mendoza Velazquez</item>
+        <item>Dulce Carolina Minor Avila</item>
+        <item>Hector Minor Velazquez</item>
+        <item>Enrique Miranda Flores</item>
+        <item>Hugo Molina Martinez</item>
+        <item>Oscar Humberto Monjaras Enriquez</item>
+        <item>Michel Yadira Montelongo Flores</item>
+        <item>Jose Carlos Montero De Anda</item>
+        <item>Luis Carlos Montero Leon</item>
+        <item>Jose Mora Ruacho</item>
+        <item>Luis Enrique Morales Gutierrez</item>
+        <item>Hermes Moreno Alvarez</item>
+        <item>Alicia Sagrario Moreno Arvizo</item>
+        <item>Olga Teresa Moriel Acosta</item>
+        <item>Luis Hebbel Moriel Maldonado</item>
+        <item>Manuel Antolin Morita Ugarte</item>
+        <item>Pedro Alberto Muela Molina</item>
+        <item>Eric Alejandro Muller Garcia</item>
+        <item>Alejandro Muro Hernandez</item>
+        <item>Gabriela Muñiz Chavez</item>
+        <item>Ana Yahaira Muños Gamboa</item>
+        <item>Jesus Manuel Muñoz Languero</item>
+        <item>Marisa Isabel Muñoz Ochoa</item>
+        <item>Claudia Georgina Nava Dino</item>
+        <item>Carmen Julia Navarro Gomez</item>
+        <item>Erik Alberto Ochoa Corona</item>
+        <item>Alan Orlando Ochoa Renteria</item>
+        <item>Jorge Enrique Ochoa Torres</item>
+        <item>Marcos Gabriel Ogaz Gonzalez</item>
+        <item>Cecilia Olivia Olague Caballero</item>
+        <item>Rosa Imelda Olague Caballero</item>
+        <item>Hugo Alfredo Olivas Acosta</item>
+        <item>Alejandra Olivas Davila</item>
+        <item>Olga Cecilia Olivas Rivera</item>
+        <item>Mario Alberto Olmos Marquez</item>
+        <item>Alberto Ornelas Hernandez</item>
+        <item>Alfredo Ornelas Hernandez</item>
+        <item>Alicia Ornelas Vargas</item>
+        <item>Adrian Isaac Orpinel Ureta</item>
+        <item>Patricia Guadalupe Orpinel Ureta</item>
+        <item>Ricardo Ortega Diaz</item>
+        <item>Hermila Ortega Mendoza</item>
+        <item>Linda Carolina Ortega Robles</item>
+        <item>Eduardo Ortiz Natividad</item>
+        <item>Abundio Osuna Vizcarra</item>
+        <item>Angelica Oviedo Garcia</item>
+        <item>Rafael Edipo Palma Castillo</item>
+        <item>Pamela Sisi Paredes Araiza</item>
+        <item>Sergio Arturo Payan Gomez</item>
+        <item>Velia Perez Gonzalez</item>
+        <item>Oscar Daniel Perez Piñon</item>
+        <item>Gerardo Perez Reveles</item>
+        <item>Miriam Zulemy Perez Rodallegas</item>
+        <item>Adan Pinales Munguia</item>
+        <item>Jesus Roberto Pizarro Chavez</item>
+        <item>Irma Liz Piñon Carmona</item>
+        <item>Refugio Antonio Piñon Carmona</item>
+        <item>Nahim Josafat Ponce Lucero</item>
+        <item>Jose Antonio Portillo Oceguera</item>
+        <item>Yessica Prieto Maldonado</item>
+        <item>Olanda Prieto Ordaz</item>
+        <item>Alberto Quintana Dominguez</item>
+        <item>Cristina Idalia Quintana Silveira</item>
+        <item>Erick Octavio Quiones Rodriguez</item>
+        <item>Luis Carlos Quiñones Baca</item>
+        <item>Edna Guadalupe Radovich Perez</item>
+        <item>Francisco Ramirez Kohler</item>
+        <item>Rocio Alejandra Ramirez Lira</item>
+        <item>Luis Antonio Ramirez Martinez</item>
+        <item>Gabriela Rascon Soto</item>
+        <item>Julia Liliana Requeña Yañez</item>
+        <item>Ignacio Alfonso Reyes Cortes</item>
+        <item>Carmen Rosalia Reyes Reyna</item>
+        <item>Manuel de Jesus Rincon Camacho</item>
+        <item>Abril Cecilia Rios Lopez</item>
+        <item>Aurora Robledo Ruiz</item>
+        <item>Valentin Federico Rodriguez Alvarado</item>
+        <item>Ricardo Alberto Rodriguez Fonseca</item>
+        <item>Amparo Margarita Rodriguez Gallegos</item>
+        <item>Carlos Fransisco Rodriguez Guevara</item>
+        <item>Beatriz Adriana Rodriguez Varela</item>
+        <item>Hector David Romero Granados</item>
+        <item>Jorge Armando Rubio Perea</item>
+        <item>Adriana Ruiz Anchondo</item>
+        <item>Hector David Ruiz Cisneros</item>
+        <item>Yesica Olivia Ruiz Holguin</item>
+        <item>Jorge Iden Ruiz Quintana</item>
+        <item>Maria Selene Ruiz Rivero</item>
+        <item>Rodrigo Ruiz Santos</item>
+        <item>Oscar Ramses Ruiz Varela</item>
+        <item>Alfonso Saens Marquez</item>
+        <item>Jesus Saenz Olivas</item>
+        <item>Victor Alfonso Salas Aguilar</item>
+        <item>Lizbeth Salas Lechuga</item>
+        <item>Luis Alfonso Salcido Hernandez</item>
+        <item>Saul Alejandro Salomon Jaramillo</item>
+        <item>Hugo Alejandro San Martin Benavides</item>
+        <item>Marco Antonio Sanchez Vazquez</item>
+        <item>Raul Sandoval Jabalera</item>
+        <item>Laura Veronica Sandoval Romero</item>
+        <item>Ivonne Aracely Santillan Martinez</item>
+        <item>Jose Santos Garcia</item>
+        <item>Daniel Sayto Corona</item>
+        <item>David Armando Sias Casas</item>
+        <item>Leonardo Sias Elizondo</item>
+        <item>Humberto Silva Hidalgo</item>
+        <item>Claudia Maria Sinaloa Rodriguez</item>
+        <item>Sergio Solis Castillo</item>
+        <item>Gilberto Sosa Najera</item>
+        <item>Erick Ivan Teran Corral</item>
+        <item>Carlos Alberto Terrazs Venegas</item>
+        <item>Agustin Javier Tonche Ramos</item>
+        <item>Daniel Oviel Torres Cisneros</item>
+        <item>Aaron Torres Orozco</item>
+        <item>Joaquin Gilberto Treviño Davila</item>
+        <item>Edgar Trujillo Preciado</item>
+        <item>Gerardo Trujillo Schiaffino</item>
+        <item>Maria Ugarte De la Rosa</item>
+        <item>Wenceslado Melecio Urbina Chavez</item>
+        <item>Adolfo Valdes Chavez</item>
+        <item>Carlos Valdez Fragoso</item>
+        <item>Julio Cesar Valdez Muñoz</item>
+        <item>Erick Saul Varela Hernandez</item>
+        <item>Beatriz Vazquez Gonzalez</item>
+        <item>Maria Isabel Vazquez Gonzalez</item>
+        <item>Mayra Elena Vega Carrasco</item>
+        <item>LizzetVelazquez Vega Portillo</item>
+        <item>Maria Alejandra Velazquez Cazares</item>
+        <item>Roberto Velazquez Talamantes</item>
+        <item>Jose Elias Villa Herrera</item>
+        <item>Marisol Villa Herrera</item>
+        <item>Maria de Lourdes - Villalba</item>
+        <item>Alejandro Villalobos Aragon</item>
+    </string-array>
+
+    <string name="title_activity_main_activity4">Seleccionar profesor</string>
+    <string name="title_activity_main_activity5">Revisar</string>
+
+</resources>
